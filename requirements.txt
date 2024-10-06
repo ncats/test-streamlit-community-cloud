@@ -4,30 +4,30 @@
 # pygeos  # doesn't work
 
 # This should all work
-# PhenoGraph
-# anndata
-# annoy
-# dill
-# hnswlib
-# matplotlib
-# natsort
-# numpy
-# objsize
-# parc
-# parmap
-# plotly
-# plotnine
-# pynndescent
-# pyyaml
-# scanpy
-# scikit-image
-# scikit-learn
-# scipy
-# seaborn
-# setuptools-scm
-# sklearn-ann
-# split-file-reader
+PhenoGraph
+anndata
+annoy
+dill
+hnswlib
+matplotlib
+natsort
+numpy
+objsize
+parc
+parmap
+plotly
+plotnine
+pynndescent
+pyyaml
+scanpy
+scikit-image
+scikit-learn
+scipy
+seaborn
+setuptools-scm
+sklearn-ann
+split-file-reader
 squidpy
-# streamlit-extras
-# tqdm
-# umap-learn
+streamlit-extras
+tqdm
+umap-learn
