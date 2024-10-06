@@ -10,6 +10,8 @@ def main():
     st.title('Hello World 2')
     st.write('This is a simple Streamlit app.')
 
+    st.write(sq.__version__)
+
     st.selectbox('Select a number', [1, 2, 3], key='number')
 
     st.write(f'You selected {st.session_state["number"]}')
