@@ -7,7 +7,7 @@ import squidpy as sq
 
 def main():
 
-    st.title('Hello World 2')
+    st.title('Hello World 3')
     st.write('This is a simple Streamlit app.')
 
     st.write(sq.__version__)
