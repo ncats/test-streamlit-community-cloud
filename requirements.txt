@@ -1,6 +1,6 @@
 # mamba install -y gcc_linux-64 gxx_linux-64 && mamba install -y python-annoy
 
-hnswlib
+# hnswlib
 
 # pygeos  # doesn't work
 
