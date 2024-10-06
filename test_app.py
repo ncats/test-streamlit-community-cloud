@@ -30,7 +30,7 @@ def main():
 
     st.write(len(uploaded_files))
 
-    installed_packages = os.popen('pip list').read()
+    installed_packages = os.popen('pip freeze').read()
     st.write(installed_packages)
 
 
