@@ -6,7 +6,7 @@ import pandas as pd
 
 def main():
 
-    st.title('Hello World')
+    st.title('Hello World 2')
     st.write('This is a simple Streamlit app.')
 
     st.selectbox('Select a number', [1, 2, 3], key='number')
