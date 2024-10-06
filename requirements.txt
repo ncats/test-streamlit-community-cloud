@@ -10,7 +10,7 @@ parc
 parmap
 plotly
 plotnine
-pygeos
+# pygeos
 pympler
 pynndescent
 pyyaml
