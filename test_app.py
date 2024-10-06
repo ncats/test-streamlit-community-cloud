@@ -31,7 +31,7 @@ def main():
     st.write(len(uploaded_files))
 
     installed_packages = os.popen('pip list').read()
-    st.dataframe(installed_packages)
+    st.write(installed_packages)
 
 
 if __name__ == '__main__':
