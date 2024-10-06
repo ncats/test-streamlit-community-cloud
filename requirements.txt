@@ -3,7 +3,7 @@
 # hnswlib
 
 
-pygeos  # doesn't work
+# pygeos  # doesn't work
 
 squidpy
 
