@@ -2,6 +2,8 @@
 
 # hnswlib
 
+import squidpy as sq
+
 # pygeos  # doesn't work
 
 # This should all work
