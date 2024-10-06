@@ -2,9 +2,10 @@
 
 # hnswlib
 
-import squidpy as sq
 
 # pygeos  # doesn't work
+
+squidpy
 
 # This should all work
 # PhenoGraph
