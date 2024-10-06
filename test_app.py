@@ -30,6 +30,9 @@ def main():
 
     st.write(len(uploaded_files))
 
+    installed_packages = os.popen('pip list').read()
+    print(installed_packages)
+
 
 if __name__ == '__main__':
     main()
