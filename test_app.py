@@ -2,6 +2,7 @@ import streamlit as st
 import multiprocessing
 import os
 import pandas as pd
+import squidpy as sq
 
 
 def main():
