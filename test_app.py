@@ -37,7 +37,7 @@ import umap
 
 def main():
 
-    st.title('Hello World 3')
+    st.title('Hello World!')
     st.write('This is a simple Streamlit app.')
 
     st.write(sq.__version__)
