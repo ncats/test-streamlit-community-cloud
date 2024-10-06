@@ -1,28 +1,31 @@
-PhenoGraph
-anndata
-annoy
-dill
-matplotlib
-natsort
-numpy
-objsize
-parc
-parmap
-plotly
-plotnine
-# pygeos
-pympler
-pynndescent
-pyyaml
-scanpy
-scikit-image
-scikit-learn
-scipy
-seaborn
-setuptools-scm
-sklearn-ann
-split-file-reader
-squidpy
-streamlit-extras
-tqdm
-umap-learn
+# mamba install -y -q natsort "foundry-transforms-lib-python>=0.578.0"
+# mamba install -y gcc_linux-64 gxx_linux-64 && mamba install -y python-annoy && mamba install -y hnswlib
+pygeos
+
+# This should all work
+# PhenoGraph
+# anndata
+# annoy
+# dill
+# matplotlib
+# natsort
+# numpy
+# objsize
+# parc
+# parmap
+# plotly
+# plotnine
+# pynndescent
+# pyyaml
+# scanpy
+# scikit-image
+# scikit-learn
+# scipy
+# seaborn
+# setuptools-scm
+# sklearn-ann
+# split-file-reader
+# squidpy
+# streamlit-extras
+# tqdm
+# umap-learn
