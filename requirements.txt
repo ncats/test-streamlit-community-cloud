@@ -1,17 +1,17 @@
-# mamba install -y gcc_linux-64 gxx_linux-64 && mamba install -y python-annoy
+# mamba install -y gcc_linux-64 gxx_linux-64
 
-hnswlib
+# python-annoy
+
 
 
 # pygeos  # doesn't work
-
-squidpy
 
 # This should all work
 # PhenoGraph
 # anndata
 # annoy
 # dill
+# hnswlib
 # matplotlib
 # natsort
 # numpy
@@ -30,7 +30,7 @@ squidpy
 # setuptools-scm
 # sklearn-ann
 # split-file-reader
-# squidpy
+squidpy
 # streamlit-extras
 # tqdm
 # umap-learn
