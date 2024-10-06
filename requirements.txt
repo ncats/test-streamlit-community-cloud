@@ -1,7 +1,6 @@
 # mamba install -y gcc_linux-64
 
-gxx_linux-64
-
+# gxx_linux-64  # doesn't work
 # python-annoy  # doesn't work
 # pygeos  # doesn't work
 
