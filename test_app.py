@@ -24,14 +24,12 @@ def main():
     uploaded_files = st.file_uploader(
         "Choose a CSV file", accept_multiple_files=True
     )
-    for uploaded_file in uploaded_files:
-        st.write(uploaded_file.name)
-        st.write(pd.read_csv(uploaded_file))
 
     st.write(len(uploaded_files))
 
-    installed_packages = os.popen('pip freeze').read()
-    st.write(installed_packages)
+    for uploaded_file in uploaded_files:
+        st.write(uploaded_file.name)
+        st.write(pd.read_csv(uploaded_file))
 
 
 if __name__ == '__main__':
